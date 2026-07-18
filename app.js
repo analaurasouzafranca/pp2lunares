@@ -28,7 +28,7 @@ app.set('views', './views');
 const conexao = mysql.createConnection({
 host:'localhost',
 user:'root',
-password:'ana03ifpe',
+password:'******',
 database:'lunares'
 });
 
